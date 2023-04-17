@@ -32,7 +32,7 @@ body {
 		left: 0;
 		width: 100%;
 		height: 100%;
-		filter: blur(120px);
+		filter: blur(180px);
 
 		img {
 			width: 100%;
@@ -48,7 +48,7 @@ body {
 		position: absolute;
 		top: 0;
 		left: 0;
-		filter: blur(120px);
+		filter: blur(180px);
 		mix-blend-mode: color-dodge;
 
 		&--outer {
@@ -74,6 +74,6 @@ body {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	opacity: 0.5;
+	opacity: 0.4;
 	background-image: url(./images/texture.png);
 }
